@@ -1,0 +1,15 @@
+{
+  "name": "OPTIV",
+  "symbol": "OPTIV",
+  "description": "OPTIV is a utility token for the decentralized OPTIV platform.",
+  "image": "https://i.imgur.com/fR5xZcl.jpeg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.imgur.com/fR5xZcl.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
